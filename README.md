@@ -1,4 +1,4 @@
-# FacialLandmarkManga
+# Facial Landmark Manga dataset
 
 This project contains the facial landmark labels for the Manga109 dataset.
 
